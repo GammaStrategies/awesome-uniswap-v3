@@ -112,6 +112,9 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Active Liquidity Management: Trader's Perspective](https://altonomy.medium.com/uniswap-v3-9b388e2fe272) - A quantitative analysis and simple simulation on Uniswap v3, with final suggestions on how to put together an optimal market making strategy on Uniswap v3
 - [Uniswap V3's Alchemy](https://www.nansen.ai/research/uniswap-v3s-alchemy) - An examination of the nascent rise of Uniswap V3, and its implications for the DeFi landscape by Nansen
 - [Liquidity Mining on Uniswap v3](https://www.paradigm.xyz/2021/05/liquidity-mining-on-uniswap-v3/) - Paradigm's research on liquidity mining on Uniswap v3
+- [Impermanent Loss in Uniswap V3](https://medium.com/auditless/impermanent-loss-in-uniswap-v3-6c7161d3b445) - Auditless' research on Impermanent Loss
+- [Behavior of Liquidity Providers in Decentralized Exchanges (ETH Zurich)](https://arxiv.org/pdf/2105.13822.pdf) - ETH Zurich research on the behavior of LP's on Dexes
+- [Strategic Liquidity Provision in Uniswap v3](https://arxiv.org/pdf/2106.12033.pdf) - Research at Harvard on research on Strategic Liquidity Provision
 
 <a name="Developer tools" />
 
