@@ -117,6 +117,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Strategic Liquidity Provision in Uniswap v3](https://arxiv.org/pdf/2106.12033.pdf) - Research at Harvard on research on Strategic Liquidity Provision
 - [Uniswap V3: A Quant Framework to model yield farming returns](https://medium.com/@DeFiScientist/uniswap-v3-a-quant-framework-to-model-yield-farming-returns-941a1600425e) - Research by DeFI Scientist on Uniswap v3 LP returns
 - [On-chain range orders using Uniswap V3](https://medium.com/auditless/on-chain-range-orders-using-uniswap-v3-7a49e480ce51) - Research by Auditless on Uniswap v3 range orders
+- [Impermanent Loss Insurance (Protection Markets) for Uniswap v3 LP’s](https://medium.com/gamma-strategies/impermanent-loss-insurance-protection-markets-for-uniswap-v3-lps-20d661f61883) - Research by Gamma Strategies on Uniswap v3 Impermanent Loss Insurance
 
 
 
@@ -191,6 +192,10 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Other Internet Community Study](https://www.notion.so/UGP-Wave-3-V3-for-the-People-48a7cd1e72cc48f4baec815bd0b4bb56) - RFP
 
 _Other grantees from wave 1 & wave 2 can be found here: [Wave 1](https://www.notion.so/UGP-Q1-Updates-a24ad2d072184120a06ce3ad330385eb)_ | _[Wave 2](https://www.notion.so/UGP-Wave-2-Operational-Updates-c9c01dc2bae441ffb02422f306a4f5ca)_
+
+### Wave 4 - Uniswap v3
+
+
 
 <a name="#other-resources" />
 
