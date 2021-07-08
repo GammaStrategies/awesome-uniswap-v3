@@ -116,10 +116,11 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Liquidity Mining on Uniswap v3](https://www.paradigm.xyz/2021/05/liquidity-mining-on-uniswap-v3/) - Paradigm's research on liquidity mining on Uniswap v3
 - [Impermanent Loss in Uniswap V3](https://medium.com/auditless/impermanent-loss-in-uniswap-v3-6c7161d3b445) - Auditless' research on Impermanent Loss
 - [Behavior of Liquidity Providers in Decentralized Exchanges (ETH Zurich)](https://arxiv.org/pdf/2105.13822.pdf) - ETH Zurich research on the behavior of LP's on Dexes
-- [Strategic Liquidity Provision in Uniswap v3](https://arxiv.org/pdf/2106.12033.pdf) - Research at Harvard on research on Strategic Liquidity Provision
+- [Strategic Liquidity Provision in Uniswap v3](https://arxiv.org/pdf/2106.12033.pdf) - Research from Harvard on research on Strategic Liquidity Provision
 - [Uniswap V3: A Quant Framework to model yield farming returns](https://medium.com/@DeFiScientist/uniswap-v3-a-quant-framework-to-model-yield-farming-returns-941a1600425e) - Research by DeFI Scientist on Uniswap v3 LP returns
 - [On-chain range orders using Uniswap V3](https://medium.com/auditless/on-chain-range-orders-using-uniswap-v3-7a49e480ce51) - Research by Auditless on Uniswap v3 range orders
 - [Impermanent Loss Insurance (Protection Markets) for Uniswap v3 LP’s](https://medium.com/gamma-strategies/impermanent-loss-insurance-protection-markets-for-uniswap-v3-lps-20d661f61883) - Research by Gamma Strategies on Uniswap v3 Impermanent Loss Insurance
+- [Synthetic Options and Short Calls in Uniswap V3](https://lambert-guillaume.medium.com/synthetic-options-and-short-calls-in-uniswap-v3-a3aea5e4e273) - Research interpreting Uniswap v3 LP positions as synthetic options contracts
 
 
 
