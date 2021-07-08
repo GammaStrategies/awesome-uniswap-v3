@@ -162,10 +162,11 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 <a name="simulators" />
 
 ### Simulators
+- [Flipside crypto](https://uniswapv3.flipsidecrypto.com/) - Uniswap v3 Fee calculator
 - [V3.unbound.finance](https://v3.unbound.finance/) - Uniswap v3 strategy simulator
 - [DeFiLab](https://defi-lab.xyz/) - Uniswap v3 Strategy simulator
 - [Chainvault.io](https://app.chainvault.io/dashboard/tools/ilcalc) - Uniswap v3 IL calculator
-- [Flipside crypto](https://twitter.com/theericstone/status/1398084512064708609?s=20) - Upcoming Uniswap v3 Fee calculator
+
 
 <a name="Analytics--Dashboards" />
 
