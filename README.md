@@ -6,6 +6,8 @@ Awesome-Uniswap (AUS) is a community-driven project, designed to be a resource p
 
 Uniswap v3 is the most powerful version of the Uniswap protocol yet; with Concentrated Liquidity offering unprecedented capital efficiency for liquidity providers, better execution for traders, and superior infrastructure at the heart of decentralized finance.
 
+Submit a pull request with updates and we will merge
+
 ## Get Started
 
 Those interested in Uniswap v3 are invited to explore AUS's collection of resources below. Get to know Uniswap v3 with the help of guides, documentation, analysis pieces, tools, AMAs, podcasts, and third-party apps, and more.
