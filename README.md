@@ -111,18 +111,40 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 
 ### Research
 - [Official Uniswap research page](https://docs.uniswap.org/concepts/advanced/research) - A list of research papers curated by uniswap labs
-- [Active Liquidity Management: Trader's Perspective](https://altonomy.medium.com/uniswap-v3-9b388e2fe272) - A quantitative analysis and simple simulation on Uniswap v3, with final suggestions on how to put together an optimal market making strategy on Uniswap v3
+
+#### General Protocol Reserach
 - [Uniswap V3's Alchemy](https://www.nansen.ai/research/uniswap-v3s-alchemy) - An examination of the nascent rise of Uniswap V3, and its implications for the DeFi landscape by Nansen
 - [Liquidity Mining on Uniswap v3](https://www.paradigm.xyz/2021/05/liquidity-mining-on-uniswap-v3/) - Paradigm's research on liquidity mining on Uniswap v3
-- [Impermanent Loss in Uniswap V3](https://medium.com/auditless/impermanent-loss-in-uniswap-v3-6c7161d3b445) - Auditless' research on Impermanent Loss
-- [Behavior of Liquidity Providers in Decentralized Exchanges (ETH Zurich)](https://arxiv.org/pdf/2105.13822.pdf) - ETH Zurich research on the behavior of LP's on Dexes
-- [Strategic Liquidity Provision in Uniswap v3](https://arxiv.org/pdf/2106.12033.pdf) - Research from Harvard on research on Strategic Liquidity Provision
-- [Uniswap V3: A Quant Framework to model yield farming returns](https://medium.com/@DeFiScientist/uniswap-v3-a-quant-framework-to-model-yield-farming-returns-941a1600425e) - Research by DeFI Scientist on Uniswap v3 LP returns
+- [Liquidity providing in Uniswap v3 (1)](https://reuptake.medium.com/liquidity-providing-in-uniswap-v3-49bf3a0bd2ec) - Description of new features of Uniswap v3 relevant for LPs. Analysis of *boost* derived from concentrated liquidity.
+- [Liquidity providing in Uniswap v3 (3)](https://reuptake.medium.com/liquidity-providing-in-uniswap-v3-3-c82fb9a5f545) - Research on the sources of yield on Uniswap v3
 - [On-chain range orders using Uniswap V3](https://medium.com/auditless/on-chain-range-orders-using-uniswap-v3-7a49e480ce51) - Research by Auditless on Uniswap v3 range orders
+- [Expected Price Range Strategies in Uniswap v3](https://medium.com/gamma-strategies/expected-price-range-strategies-in-uniswap-v3-833dff253f84) - Review of academic research on a class of LP strategies
+
+#### Academic Research
+ - [Strategic Liquidity Provision in Uniswap v3](https://arxiv.org/pdf/2106.12033.pdf) - Research from Harvard on research on Strategic Liquidity Provision
+ - [Behavior of Liquidity Providers in Decentralized Exchanges (ETH Zurich)](https://arxiv.org/pdf/2105.13822.pdf) - ETH Zurich research on the behavior of LP's on Dexes
+
+#### Strategy Simulation and Quantitative Analysis
+ - [Active Liquidity Management: Trader's Perspective](https://altonomy.medium.com/uniswap-v3-9b388e2fe272) - A quantitative analysis and simple simulation on Uniswap v3, with final suggestions on how to put together an optimal market making strategy on Uniswap v3
+ - [A ‘real-world’ framework for backtesting Uniswap V3 strategies](https://jnp777.medium.com/a-real-world-framework-for-backtesting-uniswap-v3-strategies-88825abdcd17) - Framework for backtesting LP strategies
+ - [Uniswap V3: A Quant Framework to model yield farming returns](https://medium.com/@DeFiScientist/uniswap-v3-a-quant-framework-to-model-yield-farming-returns-941a1600425e) - Research by DeFI Scientist on Uniswap v3 LP returns
+
+
+#### Impermanent Loss
+- [Impermanent Loss in Uniswap V3](https://medium.com/auditless/impermanent-loss-in-uniswap-v3-6c7161d3b445) - Auditless' research on Impermanent Loss
 - [Impermanent Loss Insurance (Protection Markets) for Uniswap v3 LP’s](https://medium.com/gamma-strategies/impermanent-loss-insurance-protection-markets-for-uniswap-v3-lps-20d661f61883) - Research by Gamma Strategies on Uniswap v3 Impermanent Loss Insurance
+- [Liquidity providing in Uniswap v3 (2)](https://reuptake.medium.com/liquidity-providing-in-uniswap-v3-2-5e24af7c346c) - Analysis of impermanent loss from rebalancing and its compounding.
+- [Concentrated Divergence Loss](https://overanalyser.substack.com/p/concentrated-divergence-loss) - Experiences of LPing in a very small Uniswap v3 pool vs. the main Uniswap v2 pool
+
+
+#### Options Analysis
 - [Synthetic Options and Short Calls in Uniswap V3](https://lambert-guillaume.medium.com/synthetic-options-and-short-calls-in-uniswap-v3-a3aea5e4e273) - Research interpreting Uniswap v3 LP positions as synthetic options contracts
+- [Uniswap V3 LP Tokens as Perpetual Put and Call Options] - Research on LP positions as pertetual options
+- [Understanding the Value of Uniswap v3 Liquidity Positions](https://lambert-guillaume.medium.com/understanding-the-value-of-uniswap-v3-liquidity-positions-cdaaee127fe7) - Research on LP position valuation using an Options framework
 
-
+#### Layer 2 Reserach
+- [Understanding Fees in Optimistic Ethereum: Part 1](https://optimismpbc.medium.com/what-to-expect-when-eths-expecting-part-1-9bb5cbccb7c1) - Research on swap fee changes from Optimism
+- [The Costs of Uniswap v3 Active Management](https://medium.com/gamma-strategies/the-costs-of-uniswap-v3-active-management-7dd1c160fdd) - Research on LP costs, including early Optimism LP estimates
 
 
 <a name="Developer tools" />
