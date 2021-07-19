@@ -136,6 +136,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Impermanent Loss Insurance (Protection Markets) for Uniswap v3 LP’s](https://medium.com/gamma-strategies/impermanent-loss-insurance-protection-markets-for-uniswap-v3-lps-20d661f61883) - Research by Gamma Strategies on Uniswap v3 Impermanent Loss Insurance
 - [Liquidity providing in Uniswap v3 (2)](https://reuptake.medium.com/liquidity-providing-in-uniswap-v3-2-5e24af7c346c) - Analysis of impermanent loss from rebalancing and its compounding.
 - [Concentrated Divergence Loss](https://overanalyser.substack.com/p/concentrated-divergence-loss) - Experiences of LPing in a very small Uniswap v3 pool vs. the main Uniswap v2 pool
+- [Impermanent Loss in Uniswap V3](https://crypto-defiworld.medium.com/impermanent-loss-in-uniswap-v3-222d01668d6e) - Mathematical derivation of impermanent loss
 
 
 #### Options Analysis
@@ -192,6 +193,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [V3.unbound.finance](https://v3.unbound.finance/) - Uniswap v3 strategy simulator
 - [DeFiLab](https://defi-lab.xyz/) - Uniswap v3 Strategy simulator
 - [Chainvault.io](https://app.chainvault.io/dashboard/tools/ilcalc) - Uniswap v3 IL calculator
+- [Vercel App](https://uniswap-simulator.vercel.app/) - Uniswap v3 strategy simulator
 
 
 <a name="Analytics--Dashboards" />
