@@ -139,7 +139,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 
 #### Options Analysis
 - [Synthetic Options and Short Calls in Uniswap V3](https://lambert-guillaume.medium.com/synthetic-options-and-short-calls-in-uniswap-v3-a3aea5e4e273) - Research interpreting Uniswap v3 LP positions as synthetic options contracts
-- [Uniswap V3 LP Tokens as Perpetual Put and Call Options] - Research on LP positions as pertetual options
+- [Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827) - Research on LP positions as pertetual options
 - [Understanding the Value of Uniswap v3 Liquidity Positions](https://lambert-guillaume.medium.com/understanding-the-value-of-uniswap-v3-liquidity-positions-cdaaee127fe7) - Research on LP position valuation using an Options framework
 
 #### Layer 2 Reserach
