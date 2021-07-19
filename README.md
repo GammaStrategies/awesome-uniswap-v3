@@ -119,6 +119,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Liquidity providing in Uniswap v3 (3)](https://reuptake.medium.com/liquidity-providing-in-uniswap-v3-3-c82fb9a5f545) - Research on the sources of yield on Uniswap v3
 - [On-chain range orders using Uniswap V3](https://medium.com/auditless/on-chain-range-orders-using-uniswap-v3-7a49e480ce51) - Research by Auditless on Uniswap v3 range orders
 - [Expected Price Range Strategies in Uniswap v3](https://medium.com/gamma-strategies/expected-price-range-strategies-in-uniswap-v3-833dff253f84) - Review of academic research on a class of LP strategies
+- [Uniswap v3 Math](https://medium.com/blockchain-development-notes/uniswap-v3-maths-explained-capital-efficiency-86257c44405a) - Derives capital efficiency formulas
 
 #### Academic Research
  - [Strategic Liquidity Provision in Uniswap v3](https://arxiv.org/pdf/2106.12033.pdf) - Research from Harvard on research on Strategic Liquidity Provision
