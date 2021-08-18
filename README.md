@@ -131,6 +131,9 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
  - [Active Liquidity Management: Trader's Perspective](https://altonomy.medium.com/uniswap-v3-9b388e2fe272) - A quantitative analysis and simple simulation on Uniswap v3, with final suggestions on how to put together an optimal market making strategy on Uniswap v3
  - [A 'real-world' framework for backtesting Uniswap V3 strategies](https://jnp777.medium.com/a-real-world-framework-for-backtesting-uniswap-v3-strategies-88825abdcd17) - Framework for backtesting LP strategies
  - [Uniswap V3: A Quant Framework to model yield farming returns](https://medium.com/@DeFiScientist/uniswap-v3-a-quant-framework-to-model-yield-farming-returns-941a1600425e) - Research by DeFI Scientist on Uniswap v3 LP returns
+ - [Realized Strangle](https://github.com/Lucas-Kohorst/realized-strangle) - Executes LP positions and options strategies
+ - [Rebalancing vs Passive strategies for Uniswap V3 liquidity pools](https://medium.com/@DeFiScientist/rebalancing-vs-passive-strategies-for-uniswap-v3-liquidity-pools-754f033bdabc) - Analyzes the impact of frequent rebalancing on LP returns.
+ - [Quantifying Just in Time Liquidity in Uniswap v3](https://jnp777.medium.com/quantifyng-just-in-time-liquidity-in-uniswap-v3-23ac1db729c5) - Article describing the impact of Flashbots on Liquidity Provision Returns.
 
 
 #### Impermanent Loss
@@ -139,13 +142,14 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Liquidity providing in Uniswap v3 (2)](https://reuptake.medium.com/liquidity-providing-in-uniswap-v3-2-5e24af7c346c) - Analysis of impermanent loss from rebalancing and its compounding.
 - [Concentrated Divergence Loss](https://overanalyser.substack.com/p/concentrated-divergence-loss) - Experiences of LPing in a very small Uniswap v3 pool vs. the main Uniswap v2 pool
 - [Impermanent Loss in Uniswap V3](https://crypto-defiworld.medium.com/impermanent-loss-in-uniswap-v3-222d01668d6e) - Mathematical derivation of impermanent loss
- - [G3M Impermanent Loss Dynamics](https://arxiv.org/pdf/2108.06593.pdf) - Derives and analyzes impermanent loss on Geometric Mean Market Makers
+- [G3M Impermanent Loss Dynamics](https://arxiv.org/pdf/2108.06593.pdf) - Derives and analyzes impermanent loss on Geometric Mean Market Makers
 
 
 #### Options Analysis
 - [Synthetic Options and Short Calls in Uniswap V3](https://lambert-guillaume.medium.com/synthetic-options-and-short-calls-in-uniswap-v3-a3aea5e4e273) - Research interpreting Uniswap v3 LP positions as synthetic options contracts
 - [Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827) - Research on LP positions as pertetual options
 - [Understanding the Value of Uniswap v3 Liquidity Positions](https://lambert-guillaume.medium.com/understanding-the-value-of-uniswap-v3-liquidity-positions-cdaaee127fe7) - Research on LP position valuation using an Options framework
+- [A Guide for Choosing Optimal Uniswap V3 LP Positions, Part 1](https://lambert-guillaume.medium.com/a-guide-for-choosing-optimal-uniswap-v3-lp-positions-part-1-842b470d2261) - Statistical analysis of LP positions 
 
 #### Layer 2 Reserach
 - [Understanding Fees in Optimistic Ethereum: Part 1](https://optimismpbc.medium.com/what-to-expect-when-eths-expecting-part-1-9bb5cbccb7c1) - Research on swap fee changes from Optimism
