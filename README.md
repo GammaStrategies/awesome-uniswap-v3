@@ -120,14 +120,16 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [On-chain range orders using Uniswap V3](https://medium.com/auditless/on-chain-range-orders-using-uniswap-v3-7a49e480ce51) - Research by Auditless on Uniswap v3 range orders
 - [Expected Price Range Strategies in Uniswap v3](https://medium.com/gamma-strategies/expected-price-range-strategies-in-uniswap-v3-833dff253f84) - Review of academic research on a class of LP strategies
 - [Uniswap v3 Math](https://medium.com/blockchain-development-notes/uniswap-v3-maths-explained-capital-efficiency-86257c44405a) - Derives capital efficiency formulas
+- [Market Making in DeFi](https://blog.0x.org/market-making-in-defi) - Description of market making dynamics on DeFi
 
 #### Academic Research
  - [Strategic Liquidity Provision in Uniswap v3](https://arxiv.org/pdf/2106.12033.pdf) - Research from Harvard on research on Strategic Liquidity Provision
  - [Behavior of Liquidity Providers in Decentralized Exchanges (ETH Zurich)](https://arxiv.org/pdf/2105.13822.pdf) - ETH Zurich research on the behavior of LP's on Dexes
+ - [On Liquidity Mining for Uniswap v3](https://arxiv.org/abs/2108.05800) - Analizes potential schemes of rewarding liquidity miners on Uniswap v3
 
 #### Strategy Simulation and Quantitative Analysis
  - [Active Liquidity Management: Trader's Perspective](https://altonomy.medium.com/uniswap-v3-9b388e2fe272) - A quantitative analysis and simple simulation on Uniswap v3, with final suggestions on how to put together an optimal market making strategy on Uniswap v3
- - [A ‘real-world’ framework for backtesting Uniswap V3 strategies](https://jnp777.medium.com/a-real-world-framework-for-backtesting-uniswap-v3-strategies-88825abdcd17) - Framework for backtesting LP strategies
+ - [A 'real-world' framework for backtesting Uniswap V3 strategies](https://jnp777.medium.com/a-real-world-framework-for-backtesting-uniswap-v3-strategies-88825abdcd17) - Framework for backtesting LP strategies
  - [Uniswap V3: A Quant Framework to model yield farming returns](https://medium.com/@DeFiScientist/uniswap-v3-a-quant-framework-to-model-yield-farming-returns-941a1600425e) - Research by DeFI Scientist on Uniswap v3 LP returns
 
 
@@ -137,6 +139,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Liquidity providing in Uniswap v3 (2)](https://reuptake.medium.com/liquidity-providing-in-uniswap-v3-2-5e24af7c346c) - Analysis of impermanent loss from rebalancing and its compounding.
 - [Concentrated Divergence Loss](https://overanalyser.substack.com/p/concentrated-divergence-loss) - Experiences of LPing in a very small Uniswap v3 pool vs. the main Uniswap v2 pool
 - [Impermanent Loss in Uniswap V3](https://crypto-defiworld.medium.com/impermanent-loss-in-uniswap-v3-222d01668d6e) - Mathematical derivation of impermanent loss
+ - [G3M Impermanent Loss Dynamics](https://arxiv.org/pdf/2108.06593.pdf) - Derives and analyzes impermanent loss on Geometric Mean Market Makers
 
 
 #### Options Analysis
