@@ -121,6 +121,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Expected Price Range Strategies in Uniswap v3](https://medium.com/gamma-strategies/expected-price-range-strategies-in-uniswap-v3-833dff253f84) - Review of academic research on a class of LP strategies
 - [Uniswap v3 Math](https://medium.com/blockchain-development-notes/uniswap-v3-maths-explained-capital-efficiency-86257c44405a) - Derives capital efficiency formulas
 - [Market Making in DeFi](https://blog.0x.org/market-making-in-defi) - Description of market making dynamics on DeFi
+- [The Market Making Landscape of Uniswap v3](https://www.nansen.ai/research/the-market-making-landscape-of-uniswap-v3) - Analysis of typical LP behaviour on Uniswap v3 by late August 2021
 
 #### Academic Research
  - [Strategic Liquidity Provision in Uniswap v3](https://arxiv.org/pdf/2106.12033.pdf) - Research from Harvard on research on Strategic Liquidity Provision
@@ -150,6 +151,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827) - Research on LP positions as pertetual options
 - [Understanding the Value of Uniswap v3 Liquidity Positions](https://lambert-guillaume.medium.com/understanding-the-value-of-uniswap-v3-liquidity-positions-cdaaee127fe7) - Research on LP position valuation using an Options framework
 - [A Guide for Choosing Optimal Uniswap V3 LP Positions, Part 1](https://lambert-guillaume.medium.com/a-guide-for-choosing-optimal-uniswap-v3-lp-positions-part-1-842b470d2261) - Statistical analysis of LP positions 
+- [How to Create Perpetual Options in Uniswap v3](https://lambert-guillaume.medium.com/how-to-create-a-perpetual-options-in-uniswap-v3-3c40007ccf1) - Guide on how to implement Uniswap v3 positions as perpetual options
 
 #### Layer 2 Reserach
 - [Understanding Fees in Optimistic Ethereum: Part 1](https://optimismpbc.medium.com/what-to-expect-when-eths-expecting-part-1-9bb5cbccb7c1) - Research on swap fee changes from Optimism
