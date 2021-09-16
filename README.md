@@ -122,11 +122,14 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Uniswap v3 Math](https://medium.com/blockchain-development-notes/uniswap-v3-maths-explained-capital-efficiency-86257c44405a) - Derives capital efficiency formulas
 - [Market Making in DeFi](https://blog.0x.org/market-making-in-defi) - Description of market making dynamics on DeFi
 - [The Market Making Landscape of Uniswap v3](https://www.nansen.ai/research/the-market-making-landscape-of-uniswap-v3) - Analysis of typical LP behaviour on Uniswap v3 by late August 2021
+- [Because not all Uniswap V3 pools are born equally…](https://defi-lab.medium.com/because-not-all-uniswap-v3-pools-are-born-equally-dd2e105aa091) - Generates some statistics on how to compare different Uni v3 pools
+- [A Mathematical View of Automated Market Maker (AMM) Algorithms and Its Future](https://medium.com/anchordao-lab/automated-market-maker-amm-algorithms-and-its-future-f2d5e6cc624a) — Derications of several results of AMM math
 
 #### Academic Research
  - [Strategic Liquidity Provision in Uniswap v3](https://arxiv.org/pdf/2106.12033.pdf) - Research from Harvard on research on Strategic Liquidity Provision
  - [Behavior of Liquidity Providers in Decentralized Exchanges (ETH Zurich)](https://arxiv.org/pdf/2105.13822.pdf) - ETH Zurich research on the behavior of LP's on Dexes
  - [On Liquidity Mining for Uniswap v3](https://arxiv.org/abs/2108.05800) - Analizes potential schemes of rewarding liquidity miners on Uniswap v3
+ - [The Replicating Portfolio of a Constant Product Market with Bounded Liquidity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898384) - Derives what portfolio of spot and options can replicate a Uniswap v3 position
 
 #### Strategy Simulation and Quantitative Analysis
  - [Active Liquidity Management: Trader's Perspective](https://altonomy.medium.com/uniswap-v3-9b388e2fe272) - A quantitative analysis and simple simulation on Uniswap v3, with final suggestions on how to put together an optimal market making strategy on Uniswap v3
@@ -152,6 +155,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Understanding the Value of Uniswap v3 Liquidity Positions](https://lambert-guillaume.medium.com/understanding-the-value-of-uniswap-v3-liquidity-positions-cdaaee127fe7) - Research on LP position valuation using an Options framework
 - [A Guide for Choosing Optimal Uniswap V3 LP Positions, Part 1](https://lambert-guillaume.medium.com/a-guide-for-choosing-optimal-uniswap-v3-lp-positions-part-1-842b470d2261) - Statistical analysis of LP positions 
 - [How to Create Perpetual Options in Uniswap v3](https://lambert-guillaume.medium.com/how-to-create-a-perpetual-options-in-uniswap-v3-3c40007ccf1) - Guide on how to implement Uniswap v3 positions as perpetual options
+- [A Guide for Choosing Optimal Uniswap V3 LP Positions, Part 2](https://lambert-guillaume.medium.com/a-guide-for-choosing-optimal-uniswap-v3-lp-positions-part-2-4a94b0a12886) - Derivation of "effective liquidity", combining expected time spent "in the money" with the Uniswap v3 capital efficiency.
 
 #### Layer 2 Reserach
 - [Understanding Fees in Optimistic Ethereum: Part 1](https://optimismpbc.medium.com/what-to-expect-when-eths-expecting-part-1-9bb5cbccb7c1) - Research on swap fee changes from Optimism
