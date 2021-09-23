@@ -123,13 +123,14 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Market Making in DeFi](https://blog.0x.org/market-making-in-defi) - Description of market making dynamics on DeFi
 - [The Market Making Landscape of Uniswap v3](https://www.nansen.ai/research/the-market-making-landscape-of-uniswap-v3) - Analysis of typical LP behaviour on Uniswap v3 by late August 2021
 - [Because not all Uniswap V3 pools are born equally…](https://defi-lab.medium.com/because-not-all-uniswap-v3-pools-are-born-equally-dd2e105aa091) - Generates some statistics on how to compare different Uni v3 pools
-- [A Mathematical View of Automated Market Maker (AMM) Algorithms and Its Future](https://medium.com/anchordao-lab/automated-market-maker-amm-algorithms-and-its-future-f2d5e6cc624a) — Derications of several results of AMM math
+- [A Mathematical View of Automated Market Maker (AMM) Algorithms and Its Future](https://medium.com/anchordao-lab/automated-market-maker-amm-algorithms-and-its-future-f2d5e6cc624a) — Derivations of several results of AMM math
 
 #### Academic Research
  - [Strategic Liquidity Provision in Uniswap v3](https://arxiv.org/pdf/2106.12033.pdf) - Research from Harvard on research on Strategic Liquidity Provision
  - [Behavior of Liquidity Providers in Decentralized Exchanges (ETH Zurich)](https://arxiv.org/pdf/2105.13822.pdf) - ETH Zurich research on the behavior of LP's on Dexes
  - [On Liquidity Mining for Uniswap v3](https://arxiv.org/abs/2108.05800) - Analizes potential schemes of rewarding liquidity miners on Uniswap v3
  - [The Replicating Portfolio of a Constant Product Market with Bounded Liquidity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898384) - Derives what portfolio of spot and options can replicate a Uniswap v3 position
+ - [Liquidity Math un Uniswap v3](https://atiselsts.github.io/pdfs/uniswap-v3-liquidity-math.pdf) - Derivation of several key Liquidity Provision formulas from Uniswap v3 
 
 #### Strategy Simulation and Quantitative Analysis
  - [Active Liquidity Management: Trader's Perspective](https://altonomy.medium.com/uniswap-v3-9b388e2fe272) - A quantitative analysis and simple simulation on Uniswap v3, with final suggestions on how to put together an optimal market making strategy on Uniswap v3
