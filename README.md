@@ -149,6 +149,12 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Impermanent Loss in Uniswap V3](https://crypto-defiworld.medium.com/impermanent-loss-in-uniswap-v3-222d01668d6e) - Mathematical derivation of impermanent loss
 - [G3M Impermanent Loss Dynamics](https://arxiv.org/pdf/2108.06593.pdf) - Derives and analyzes impermanent loss on Geometric Mean Market Makers
 
+#### Didactic Tools
+- [Basic Constant Product Market Maker Explainer](https://www.desmos.com/calculator/nw4zrqrftx) - Graphical Explanation of x * y = k markets.
+- [Introduction of Concentrated Liquidity to a CMM](https://www.desmos.com/calculator/wfp3scq3g3) - Introduces range orders to the AMM.
+- [Swap-to-add Calculator](https://www.desmos.com/calculator/oiv0rti0ss?s=09) - Derivation of the swaps required to deposit 100% of your pair of assets in a pool, given that the pool's ratio and your ranges might not match.
+- [Impermanent Loss Calculator](https://www.desmos.com/calculator/i8h0wzqaci) - This tool shows how impermanent loss and portfolio composition work for Uniswap v3 positions.
+- [Multiple LP positions example](https://www.desmos.com/calculator/qknhcrktmz) - This tool shwos how multiple concentrated liquidity positions behave when stacked on top of each other in the same pool.
 
 #### Options Analysis
 - [Synthetic Options and Short Calls in Uniswap V3](https://lambert-guillaume.medium.com/synthetic-options-and-short-calls-in-uniswap-v3-a3aea5e4e273) - Research interpreting Uniswap v3 LP positions as synthetic options contracts
