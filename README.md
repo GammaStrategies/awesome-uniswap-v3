@@ -148,7 +148,9 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Concentrated Divergence Loss](https://overanalyser.substack.com/p/concentrated-divergence-loss) - Experiences of LPing in a very small Uniswap v3 pool vs. the main Uniswap v2 pool
 - [Impermanent Loss in Uniswap V3](https://crypto-defiworld.medium.com/impermanent-loss-in-uniswap-v3-222d01668d6e) - Mathematical derivation of impermanent loss
 - [G3M Impermanent Loss Dynamics](https://arxiv.org/pdf/2108.06593.pdf) - Derives and analyzes impermanent loss on Geometric Mean Market Makers
-
+- [Calculating the Expected Value of the Impermanent Loss in Uniswap](https://lambert-guillaume.medium.com/an-analysis-of-the-expected-value-of-the-impermanent-loss-in-uniswap-bfbfebbefed2) - Analysis of the expected impermanent loss of a one tick position on Uniswap v3
+- [Single-Position Impermanent Loss of A Single Transaction for Uniswap V3](https://medium.com/@PlanetHunter/impermanent-loss-calculation-for-uniswap-v3-c753dcfae16d) - Derivation of impermanent loss formulas for Uniswap v3 positions
+- 
 #### Didactic Tools
 - [Basic Constant Product Market Maker Explainer](https://www.desmos.com/calculator/nw4zrqrftx) - Graphical Explanation of x * y = k markets.
 - [Introduction of Concentrated Liquidity to a CMM](https://www.desmos.com/calculator/wfp3scq3g3) - Introduces range orders to the AMM.
@@ -156,13 +158,15 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Impermanent Loss Calculator](https://www.desmos.com/calculator/i8h0wzqaci) - This tool shows how impermanent loss and portfolio composition work for Uniswap v3 positions.
 - [Multiple LP positions example](https://www.desmos.com/calculator/qknhcrktmz) - This tool shwos how multiple concentrated liquidity positions behave when stacked on top of each other in the same pool.
 
+
 #### Options Analysis
 - [Synthetic Options and Short Calls in Uniswap V3](https://lambert-guillaume.medium.com/synthetic-options-and-short-calls-in-uniswap-v3-a3aea5e4e273) - Research interpreting Uniswap v3 LP positions as synthetic options contracts
 - [Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827) - Research on LP positions as pertetual options
 - [Understanding the Value of Uniswap v3 Liquidity Positions](https://lambert-guillaume.medium.com/understanding-the-value-of-uniswap-v3-liquidity-positions-cdaaee127fe7) - Research on LP position valuation using an Options framework
-- [A Guide for Choosing Optimal Uniswap V3 LP Positions, Part 1](https://lambert-guillaume.medium.com/a-guide-for-choosing-optimal-uniswap-v3-lp-positions-part-1-842b470d2261) - Statistical analysis of LP positions 
 - [How to Create Perpetual Options in Uniswap v3](https://lambert-guillaume.medium.com/how-to-create-a-perpetual-options-in-uniswap-v3-3c40007ccf1) - Guide on how to implement Uniswap v3 positions as perpetual options
+- [A Guide for Choosing Optimal Uniswap V3 LP Positions, Part 1](https://lambert-guillaume.medium.com/a-guide-for-choosing-optimal-uniswap-v3-lp-positions-part-1-842b470d2261) - Statistical analysis of LP positions 
 - [A Guide for Choosing Optimal Uniswap V3 LP Positions, Part 2](https://lambert-guillaume.medium.com/a-guide-for-choosing-optimal-uniswap-v3-lp-positions-part-2-4a94b0a12886) - Derivation of "effective liquidity", combining expected time spent "in the money" with the Uniswap v3 capital efficiency.
+- [Pricing Uniswap v3 LP Positions: Towards a New Options Paradigm?](https://lambert-guillaume.medium.com/pricing-uniswap-v3-lp-positions-towards-a-new-options-paradigm-dce3e3b50125) - Analysis of the risk-reward tradeoffs of one tick positions in Uniswap v3 when interpreted as options
 
 #### Layer 2 Reserach
 - [Understanding Fees in Optimistic Ethereum: Part 1](https://optimismpbc.medium.com/what-to-expect-when-eths-expecting-part-1-9bb5cbccb7c1) - Research on swap fee changes from Optimism
@@ -172,6 +176,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 <a name="Developer tools" />
 
 ## Developer tools
+- [The "Tuner", a Uniswap V3 Simulator](https://github.com/Bella-DeFinTech/uniswap-v3-simulator) - SDK for simulating a Uniswap v3 pool
 
 <a name="v3-smart-contracts" />
 
@@ -214,6 +219,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [DeFiLab](https://defi-lab.xyz/) - Uniswap v3 Strategy simulator
 - [Chainvault.io](https://app.chainvault.io/dashboard/tools/ilcalc) - Uniswap v3 IL calculator
 - [Vercel App](https://uniswap-simulator.vercel.app/) - Uniswap v3 strategy simulator
+- [Ranges.fi](https://ranges.fi/) - Backtester of Uniswap v3 LP positions
 
 
 <a name="Analytics--Dashboards" />
@@ -223,6 +229,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Uniswap v2-to-v3 ramp up](https://duneanalytics.com/msilb7/Uniswap-V2-vs-V3-Ramp-Up) - Dune dashboard comparing Uniswap v2 and v3 by [Michael Silberling](https://twitter.com/msilb7)
 - [Uniswap v3 usage](https://duneanalytics.com/msilb7/Uniswap-v3-Competitive-Analysis) - Dune dashboard with Uniswap v3 Trading Usage, Growth, and Competitive Analysis by [Michael Silberling](https://twitter.com/msilb7)
 - [Parsec Finance](https://app.parsec.finance/) - Uniswap v3 specific features such as historical pool depth and positions overview
+
 ## Uni Grant projects
 
 <a name="#wave-3" />
