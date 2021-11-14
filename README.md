@@ -131,6 +131,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
  - [On Liquidity Mining for Uniswap v3](https://arxiv.org/abs/2108.05800) - Analizes potential schemes of rewarding liquidity miners on Uniswap v3
  - [The Replicating Portfolio of a Constant Product Market with Bounded Liquidity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898384) - Derives what portfolio of spot and options can replicate a Uniswap v3 position
  - [Liquidity Math un Uniswap v3](https://atiselsts.github.io/pdfs/uniswap-v3-liquidity-math.pdf) - Derivation of several key Liquidity Provision formulas from Uniswap v3 
+ - [Concentrated Liquidity in Automated Market Makers](https://arxiv.org/abs/2110.01368) - Analysis of returns of concentrated liquidity provision since Uniswap v3's release, as well as a comparison of the perfermance of different strategies.
 
 #### Strategy Simulation and Quantitative Analysis
  - [Active Liquidity Management: Trader's Perspective](https://altonomy.medium.com/uniswap-v3-9b388e2fe272) - A quantitative analysis and simple simulation on Uniswap v3, with final suggestions on how to put together an optimal market making strategy on Uniswap v3
