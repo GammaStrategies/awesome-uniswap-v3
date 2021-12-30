@@ -182,7 +182,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 <a name="v3-smart-contracts" />
 
 ### v3 Smart contracts
-- [Overview](https://docs.uniswap.org/reference/smart-contracts) - Overview of Uniswap v3 smart contracts
+- [Overview](https://docs.uniswap.org/protocol/reference/smart-contracts) - Overview of Uniswap v3 smart contracts
 - [Contract map](https://j1mmy.fi/uniswapv3/pool) - Interactive contract map for Uniswap v3
 - [Deployment addresses](https://github.com/Uniswap/uniswap-v3-periphery/blob/main/deploys.md) - Deployment addresses for Uniswap v3
 - [Business Source License](https://github.com/Uniswap/uniswap-v3-core/blob/main/LICENSE) - Terms of the business license.
