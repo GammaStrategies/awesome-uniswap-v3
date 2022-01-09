@@ -206,6 +206,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Visor Finance](https://www.visor.finance/) - Active Liquidity Management protocol built on NFT Smart Vaults
 - [Gamma Strategies](https://twitter.com/GammaStrategies) - An organization dedicated to funding ‘Active LP’ strategies and research. Apply for a grant [here](https://airtable.com/shrE2y3iicf0IxkTi)
 - [Charm finance](https://alpha.charm.fi/) - Automated LP Vaults for Uniswap V3
+- [DefiEdge](https://defiedge.io/) - Decentralized Asset Management on Uniswap V3
 
 <a name="liquidity-provider-tools--portfolio-management" />
 
