@@ -151,7 +151,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [G3M Impermanent Loss Dynamics](https://arxiv.org/pdf/2108.06593.pdf) - Derives and analyzes impermanent loss on Geometric Mean Market Makers
 - [Calculating the Expected Value of the Impermanent Loss in Uniswap](https://lambert-guillaume.medium.com/an-analysis-of-the-expected-value-of-the-impermanent-loss-in-uniswap-bfbfebbefed2) - Analysis of the expected impermanent loss of a one tick position on Uniswap v3
 - [Single-Position Impermanent Loss of A Single Transaction for Uniswap V3](https://medium.com/@PlanetHunter/impermanent-loss-calculation-for-uniswap-v3-c753dcfae16d) - Derivation of impermanent loss formulas for Uniswap v3 positions
-- 
+ 
 #### Didactic Tools
 - [Basic Constant Product Market Maker Explainer](https://www.desmos.com/calculator/nw4zrqrftx) - Graphical Explanation of x * y = k markets.
 - [Introduction of Concentrated Liquidity to a CMM](https://www.desmos.com/calculator/wfp3scq3g3) - Introduces range orders to the AMM.
@@ -159,6 +159,10 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Impermanent Loss Calculator](https://www.desmos.com/calculator/i8h0wzqaci) - This tool shows how impermanent loss and portfolio composition work for Uniswap v3 positions.
 - [Multiple LP positions example](https://www.desmos.com/calculator/qknhcrktmz) - This tool shwos how multiple concentrated liquidity positions behave when stacked on top of each other in the same pool.
 
+#### Explainers
+
+- [Liquidity Math in Uniswap v3](http://atiselsts.github.io/pdfs/uniswap-v3-liquidity-math.pdf) - A basic guide to the math in v3 whitepaper; includes examples with real positions and code samples
+- [Uniswap v3 liquidity formula explained](https://atiselsts.medium.com/uniswap-v3-liquidity-formula-explained-de8bd42afc3c) - Derivation of the v3 concentrated liquidity formula
 
 #### Options Analysis
 - [Synthetic Options and Short Calls in Uniswap V3](https://lambert-guillaume.medium.com/synthetic-options-and-short-calls-in-uniswap-v3-a3aea5e4e273) - Research interpreting Uniswap v3 LP positions as synthetic options contracts
@@ -257,4 +261,4 @@ _Other grantees from wave 1 & wave 2 can be found here: [Wave 1](https://www.not
 <a name="#other-resources" />
 
 ## Other resources
-- [Resources](https://docs.uniswap.org/concepts/advanced/resources) - Official page for additional Uniswap resources
+- [Resources](https://docs.uniswap.org/protocol/concepts/advanced/resources) - Official page for additional Uniswap resources
