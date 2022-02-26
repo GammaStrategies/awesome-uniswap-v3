@@ -151,7 +151,8 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [G3M Impermanent Loss Dynamics](https://arxiv.org/pdf/2108.06593.pdf) - Derives and analyzes impermanent loss on Geometric Mean Market Makers
 - [Calculating the Expected Value of the Impermanent Loss in Uniswap](https://lambert-guillaume.medium.com/an-analysis-of-the-expected-value-of-the-impermanent-loss-in-uniswap-bfbfebbefed2) - Analysis of the expected impermanent loss of a one tick position on Uniswap v3
 - [Single-Position Impermanent Loss of A Single Transaction for Uniswap V3](https://medium.com/@PlanetHunter/impermanent-loss-calculation-for-uniswap-v3-c753dcfae16d) - Derivation of impermanent loss formulas for Uniswap v3 positions
-- 
+- [Understand LP risks: use Effective Gain/Loss, not Impermanent Loss](https://medium.com/@gui.lamacie/understand-lp-risks-use-effective-gain-loss-not-impermanent-loss-34d1450231a5) - Proposes the use of "effective loss", a measure of net profit that assumes that initial position was 100% USD based, rather than the ratio of tokens you deposit into the pool (as you had to purchase the tokens that you LP).
+
 #### Didactic Tools
 - [Basic Constant Product Market Maker Explainer](https://www.desmos.com/calculator/nw4zrqrftx) - Graphical Explanation of x * y = k markets.
 - [Introduction of Concentrated Liquidity to a CMM](https://www.desmos.com/calculator/wfp3scq3g3) - Introduces range orders to the AMM.
@@ -168,10 +169,15 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [A Guide for Choosing Optimal Uniswap V3 LP Positions, Part 1](https://lambert-guillaume.medium.com/a-guide-for-choosing-optimal-uniswap-v3-lp-positions-part-1-842b470d2261) - Statistical analysis of LP positions 
 - [A Guide for Choosing Optimal Uniswap V3 LP Positions, Part 2](https://lambert-guillaume.medium.com/a-guide-for-choosing-optimal-uniswap-v3-lp-positions-part-2-4a94b0a12886) - Derivation of "effective liquidity", combining expected time spent "in the money" with the Uniswap v3 capital efficiency.
 - [Pricing Uniswap v3 LP Positions: Towards a New Options Paradigm?](https://lambert-guillaume.medium.com/pricing-uniswap-v3-lp-positions-towards-a-new-options-paradigm-dce3e3b50125) - Analysis of the risk-reward tradeoffs of one tick positions in Uniswap v3 when interpreted as options
+- [On-chain Volatility and Uniswap v3](https://lambert-guillaume.medium.com/on-chain-volatility-and-uniswap-v3-d031b98143d1) - Derivation of the implied volatility of a one-tick LP position on Uniswap v3.
 
 #### Layer 2 Reserach
 - [Understanding Fees in Optimistic Ethereum: Part 1](https://optimismpbc.medium.com/what-to-expect-when-eths-expecting-part-1-9bb5cbccb7c1) - Research on swap fee changes from Optimism
 - [The Costs of Uniswap v3 Active Management](https://medium.com/gamma-strategies/the-costs-of-uniswap-v3-active-management-7dd1c160fdd) - Research on LP costs, including early Optimism LP estimates
+
+#### Concentrated Liquidity Provision Hedging
+- [Gamma transforms: How to hedge squeeth using Uni V3](https://lambert-guillaume.medium.com/gamma-transforms-how-to-hedge-squeeth-using-uni-v3-da785cb8b378) - Research on hedging squeeth to have zero gamma.
+- 
 
 
 <a name="Developer tools" />
