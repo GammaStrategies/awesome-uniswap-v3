@@ -227,6 +227,8 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Chainvault.io](https://app.chainvault.io/dashboard/tools/ilcalc) - Uniswap v3 IL calculator
 - [Vercel App](https://uniswap-simulator.vercel.app/) - Uniswap v3 strategy simulator
 - [Ranges.fi](https://ranges.fi/) - Backtester of Uniswap v3 LP positions
+- [Revert Finance's Initiator](https://medium.com/@revert_finance/presenting-the-initiator-3450f63d6b7e) - Revert.finance's simulator
+- [BearWhale.Crypto](https://www.bearwhale.io/liquiditypool/) - LP Return data and simulator
 
 
 <a name="Analytics--Dashboards" />
