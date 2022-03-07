@@ -97,7 +97,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 <a name="Guides" />
 
 ### Guides
-- [Swap](https://docs.uniswap.org/concepts/introduction/swaps) - Official Uniswap guide on swaps
+- [Swap](https://docs.uniswap.org/protocol/concepts/V3-overview/swaps) - Official Uniswap guide on swaps
 - [Liquidity provider & Migration User Guide](https://docs.uniswap.org/concepts/introduction/liquidity-user-guide) - Official step-by-step guide on providing liquidity on v3, and migration of liquidity from Uniswap v2 to v3
 
 <a name="Videos" />
