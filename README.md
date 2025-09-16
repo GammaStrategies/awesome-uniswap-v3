@@ -177,7 +177,6 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 
 #### Concentrated Liquidity Provision Hedging
 - [Gamma transforms: How to hedge squeeth using Uni V3](https://lambert-guillaume.medium.com/gamma-transforms-how-to-hedge-squeeth-using-uni-v3-da785cb8b378) - Research on hedging squeeth to have zero gamma.
-- 
 
 
 <a name="Developer tools" />
@@ -192,7 +191,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 - [Contract map](https://j1mmy.fi/uniswapv3/pool) - Interactive contract map for Uniswap v3
 - [Deployment addresses](https://github.com/Uniswap/uniswap-v3-periphery/blob/main/deploys.md) - Deployment addresses for Uniswap v3
 - [Business Source License](https://github.com/Uniswap/uniswap-v3-core/blob/main/LICENSE) - Terms of the business license.
-- [Uniswap v3 SDK](https://github.com/Uniswap/uniswap-v3-sdk) - Official SDK for building applications on top of Uniswap v3
+- [Uniswap v3 SDK](https://github.com/Uniswap/sdks/tree/main/sdks/v3-sdk) - Official SDK for building applications on top of Uniswap v3
 - [Uniswap library](https://github.com/Uniswap/uniswap-lib) - Solidity libraries that are shared across Uniswap contracts. This package focuses on safety and execution gas efficiency.
 
 <a name="Data" />
