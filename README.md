@@ -217,6 +217,7 @@ Those interested in Uniswap v3 are invited to explore AUS's collection of resour
 
 ### Liquidity provider tools
 - [Sommelier Finance](https://app.sommelier.finance/) - Add liquidity to Uniswap v3
+- [QuantumPools](https://quantumpools.io) - LP bookkeeping / metrics for original deposit, fees, impermanent loss, and cover value (Solana + EVM; Uniswap v3 concentrated liquidity)
 
 <a name="simulators" />
 
