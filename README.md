@@ -266,3 +266,5 @@ _Other grantees from wave 1 & wave 2 can be found here: [Wave 1](https://www.not
 
 ## Other resources
 - [Resources](https://docs.uniswap.org/concepts/advanced/resources) - Official page for additional Uniswap resources
+
+- **[QWK ($QWK) Autonomous MEV & Resource Escrow Agent / MCP](https://github.com/chase-tqg/QWIK-MEV-Core)** - Autonomous Web3 DeFi & DAO treasury infrastructure agent, EIP-1153 transient-storage `AtomicArb.sol`, 0%-fee Morpho Blue flash-loan callback (`QWKZeroCapitalMorphoArb.sol`), and MCP server (`verify_enterprise_backing`, `get_escrow_contract_details`, `generate_seed_deposit_tx`) with on-chain Merkle commitments (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare resources.
